@@ -1,7 +1,6 @@
 My name is Krzysztof 
 meow meow meow
 I'm a cat
-I don't woof
-Hello!
+I don't woof, because I'm not a dog
 I do gobble though.
 Because I am also a turkey.
